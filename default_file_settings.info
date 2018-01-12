@@ -1,0 +1,5 @@
+name = Default File Settings
+description = Provides configurable file settings defaults.
+core = 7.x
+package = Media
+dependencies[] = file
